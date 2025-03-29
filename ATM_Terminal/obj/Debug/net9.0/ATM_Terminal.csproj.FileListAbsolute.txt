@@ -1,0 +1,15 @@
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\bin\Debug\net9.0\ATM_Terminal.exe
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\bin\Debug\net9.0\ATM_Terminal.deps.json
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\bin\Debug\net9.0\ATM_Terminal.runtimeconfig.json
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\bin\Debug\net9.0\ATM_Terminal.dll
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\bin\Debug\net9.0\ATM_Terminal.pdb
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ATM_Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ATM_Terminal.AssemblyInfoInputs.cache
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ATM_Terminal.AssemblyInfo.cs
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ATM_Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ATM_Terminal.sourcelink.json
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ATM_Terminal.dll
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\refint\ATM_Terminal.dll
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ATM_Terminal.pdb
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ATM_Terminal.genruntimeconfig.cache
+C:\Users\Adil\OneDrive\ドキュメント\OOP\ATM_Terminal\ATM_Terminal\obj\Debug\net9.0\ref\ATM_Terminal.dll
